@@ -1,0 +1,4 @@
+Double Colon Operator is a shorter way of writing Lambda with Method reference
+
+You can call static method directly with the class name. But you can't do the same
+with instance method.
